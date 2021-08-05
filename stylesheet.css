@@ -1,0 +1,83 @@
+.container-fluid {
+    padding : 10px;
+}
+.container-fluid img{
+    padding-left : 15px;
+}
+.menu-list-atas li {
+    float : right;
+    padding-right : 15px ;
+    background-color: white;
+}
+
+.header{
+    background-color: #e04e4e;
+    padding : 100px 80px;
+}
+.judul-profil-jurusan h1{
+    font-family: "Century Gothic"; 
+}
+
+.judul-profil-jurusan h5{
+    font-family: "Century Gothic";
+}
+
+.pembuka{
+    padding-right: 40px;
+    padding-left : 40px;
+    font-family: "Century Gothic";
+}
+
+.pembuka1 h3{
+    padding : 60px 40px;
+    font-weight: 400;
+}
+
+.pembuka1 p{
+    padding: 0px 40px;
+    padding-bottom: 40px;
+            
+}
+
+.content {
+    padding-right: 80px;
+    padding-left : 80px;
+    font-family: "Century Gothic";
+}
+
+.konten1 h4{
+    padding-bottom : 20px;
+    font-weight: bold;
+
+}
+
+.konten1 h5{
+    font-weight: bold;
+}
+
+.konten2{
+    padding-bottom: 150px;
+    border-bottom: 2px solid #dee7ec;
+}
+
+.konten2 h5{
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+.footer{
+    
+    padding-top: 80px;
+            
+}
+
+.footer-list h5{
+    font-family:"Century Gothic" ;
+    font-weight: bold;
+    padding-left: 50px;
+}
+
+
+.footer-list li{
+    list-style: none;  
+}
